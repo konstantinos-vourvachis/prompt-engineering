@@ -1,0 +1,29 @@
+# Notebook runtime
+jupyter
+ipykernel
+
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# NLP / sentiment baseline
+textblob
+
+# Prompt engineering utilities
+fuzzywuzzy
+python-Levenshtein
+
+# Models (Hugging Face GPT-2)
+transformers
+torch
+
+# OpenAI client (used by some notebook sections; key is NOT stored in repo)
+openai
+
+# Included because the notebook installs it (even if not heavily used)
+tensorflow
